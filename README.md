@@ -1,6 +1,6 @@
 # Burra Krishna Karthikeya
 
-**Final-year CSE undergrad at SRM University AP (CGPA 9.56/10)** — building production-grade backend systems (Java/Spring) and ML/robotics projects that ship.  
+**Third-year CSE undergrad at SRM University AP (CGPA 9.56/10)** — building production-grade backend systems (Java/Spring) and ML/robotics projects that ship.  
 SWE Intern candidate · Next Tech Lab (Syndicate) · Open to **Summer 2026** backend roles.
 
 [![Email](https://img.shields.io/badge/Email-burrakarthikeya015%40gmail.com-D14836?style=flat&logo=gmail)](mailto:burrakarthikeya015@gmail.com)
